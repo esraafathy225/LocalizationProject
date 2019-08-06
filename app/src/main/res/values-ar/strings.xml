@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalizationProject</string>
+    <string name="welcome">مرحبا بكم في التطبيق</string>
+    <string name="enter_phone_password">من فضلك ادخل الاسم و رقم الجوال</string>
+    <string name="phone">رقم الجوال</string>
+    <string name="password">كلمة المرور</string>
+    <string name="continue_as_guest">الاستمرار كزائر</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="enter_phone">ادخل رقم الجوال</string>
+    <string name="recover">استرجاع كلمة المرور</string>
+    <string name="signup">انشاء حساب</string>
+    <string name="dont_have_account">ليس لديك حساب؟</string>
+    <string name="arabic">عربي</string>
+    <string name="english">انجليزي</string>
+</resources>

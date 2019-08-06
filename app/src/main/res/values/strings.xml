@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LocalizationProject</string>
+    <string name="welcome">Welcome to our App</string>
+    <string name="enter_phone_password">Please enter your phone and password</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="continue_as_guest">Continue as a guest</string>
+    <string name="signin">Sign in</string>
+    <string name="forget_password">Forgot password?</string>
+    <string name="enter_phone">Enter your phone</string>
+    <string name="recover">Recover password</string>
+    <string name="signup">Sign up</string>
+    <string name="dont_have_account">Don\'t have account?</string>
+    <string name="arabic">Arabic</string>
+    <string name="english">English</string>
+</resources>
